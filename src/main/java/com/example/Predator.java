@@ -1,6 +1,6 @@
 package com.example;
 
-import java.util.List;
+import java.util.List; //мпорт для списка
 
 public interface Predator {
 
